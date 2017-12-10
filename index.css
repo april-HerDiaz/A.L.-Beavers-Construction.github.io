@@ -6,7 +6,7 @@ header{
   font-family: "Fondamento";
 }
 body{
-  background-color: #FFE9FF;
+  background-image:URL("hardhat.jpg")
 }
 nav li{
   display: inline-block;
