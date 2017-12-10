@@ -1,0 +1,26 @@
+header{
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 36px;
+  font-family:"Text Me One"
+}
+
+body{
+  background-color: #E8C36C;
+}
+
+nav li{
+  display: inline-block;
+  font-size: 18px;
+}
+
+img{
+  display: block;
+  width: 50%;
+  height:50%;
+}
+.tools{
+  width: 50%;
+  height:50%;
+}
