@@ -1,0 +1,39 @@
+header{
+  color:white;
+  background-color: blue;
+  text-align: center;
+  font-size: 36px;
+  font-family: "Fondamento";
+}
+body{
+  background-color: #FFE9FF;
+}
+nav li{
+  display: inline-block;
+  font-size: 18px;
+}
+
+a{
+  design:none;
+}
+
+h1{
+  font-size: 20px;
+  color: #170200;
+  font-style: italic;
+  font-weight: bold;
+}
+p{
+  font-family: "Fondamento";
+  font-weight: bold;
+  color: #8C0C00
+}
+img{
+  display: block;
+  width: 20%;
+  height: 30%;
+}
+footer{
+  background: #12809D
+  width: 29%
+}
